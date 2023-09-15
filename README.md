@@ -68,7 +68,7 @@ Ahmed Faizan</a></h1>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,linux,mongodb,py,react,postgresql,node,heroku&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,linux,mongodb,py,react,postgresql,nodejs,heroku&perline=14" />
   </a>
 </p>
 <!-- Connect with me -->
