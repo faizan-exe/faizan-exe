@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="[https://100rabhcsmc.github.io/Me.io/](https://www.linkedin.com/in/ahmed-faizan-59b05719b/)" target="blank">
 Ahmed Faizan</a></h1>
-<h3 align="center">A passionate DevOPS Engineer and IT Consultant from Islamabad &#127470;&#127475</h3>
+<h3 align="center">A passionate DevOps Engineer and IT Consultant from Islamabad &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-exe&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,19 +10,15 @@ Ahmed Faizan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently working in <a href="https://synapsesolutions.co" target="blank">Synapse Solutions</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently workking AWS Cloud Serivces <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">AWS Cloud</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Project Managemnet, Aglie Processes**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **itconsultant@synapsesolutions.co**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
