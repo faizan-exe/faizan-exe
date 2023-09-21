@@ -12,7 +12,7 @@ Ahmed Faizan</a></h1>
 
 - 🔭 I’m currently working in <a href="https://synapsesolutions.co" target="blank">Synapse Solutions</a>
 
-- 🌱 I’m currently workking AWS Cloud Serivces <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">AWS Cloud</a>
+- 🌱 I’m currently working on AWS Cloud Serivces <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">AWS Cloud</a>
 
 - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
 
