@@ -12,7 +12,7 @@ Ahmed Faizan</a></h1>
 
 - 🔭 I’m currently working in <a href="https://synapsesolutions.co" target="blank">Synapse Solutions</a>
 
-- 🌱 I’m currently working on AWS Cloud Serivces <a href="https://aws.amazon.com/"> target="blank">AWS Cloud</a>
+- 🌱 I’m currently working on AWS Cloud Serivces <a href="https://aws.amazon.com/" target="blank">AWS Cloud</a>
 
 - 💬 Ask me about **Project Managemnet, Aglie Processes**
 
