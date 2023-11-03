@@ -14,7 +14,7 @@ Ahmed Faizan</a></h1>
 
 - 🌱 I’m currently working on AWS Cloud Serivces <a href="https://aws.amazon.com/" target="blank">AWS Cloud</a>
 
-- 💬 Ask me about **Project Managemnet, Aglie Processes**
+- 💬 Ask me about **Dev. Operations, Project Management**
 
 - 📫 How to reach me **itconsultant@synapsesolutions.co**
 
