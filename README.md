@@ -34,11 +34,11 @@
 
 ---
 
-## 🏆 Specialties
+## 🏆 Specialities
 
 - **Cloud Architectures**: AWS, Serverless, Microservices, Well-Architected Framework
 - **Databases**: PostgreSQL, RDS, Aurora, DynamoDB
-- **DevOps**: Docker, GitHub Actions, CI/CD, Terraform
+- **DevOps**: Docker, GitHub Actions, CI/CD
 - **Frontend Frameworks**: Next.js, React
 - **Backend Frameworks**: Node.js, Flask, NestJS
 - **Gen AI Chatbots**: Google Vertex AI, AWS SageMaker
