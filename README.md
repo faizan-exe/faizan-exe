@@ -37,11 +37,11 @@
 ## 🏆 Specialities
 
 - **Cloud Architectures**: AWS, Serverless, Microservices, Well-Architected Framework
+- **Serverless Architectures**: Lambda, API Gateway, Cognito, DynamoDB
+- **Networking**: VPC, Subnets, Gateway/Interface Endpoints, PrivateLink
 - **Databases**: PostgreSQL, RDS, Aurora, DynamoDB
 - **DevOps**: Docker, GitHub Actions, CI/CD
-- **Frontend Frameworks**: Next.js, React
-- **Backend Frameworks**: Node.js, Flask, NestJS
+- **Development Frameworks**: Nextjs, Nestjs/Nodejs, Flask
 - **Gen AI Chatbots**: Google Vertex AI, AWS SageMaker
 - **Infrastructure as Code**: Terraform
-- **Serverless Architectures**: Lambda, API Gateway, Cognito, DynamoDB
 - **Automation**: Bash scripting, Python
