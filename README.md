@@ -26,19 +26,22 @@
 
 ## ⚙️ Technologies I Have Worked With
 
-- AWS (Amazon Web Services)
-- Next.js
-- Node.js
-- PostgreSQL
-- Docker
-- React Native
-- Python
-- Flask
-- Kubernetes
-- Terraform
-- NestJS
-- Vite
-- AVR Machine Code
-- Google Vertex AI
-- Serverless Architectures
-- And more...
+- **AWS** | **Next.js**
+- **Node.js** | **PostgreSQL**
+- **Docker** | **DynamoDB**
+- **Python** | **Flask**
+- **NestJS** | **Terraform**
+
+---
+
+## 🏆 Specialties
+
+- **Cloud Architectures**: AWS, Serverless, Microservices, Well-Architected Framework
+- **Databases**: PostgreSQL, RDS, Aurora, DynamoDB
+- **DevOps**: Docker, GitHub Actions, CI/CD, Terraform
+- **Frontend Frameworks**: Next.js, React
+- **Backend Frameworks**: Node.js, Flask, NestJS
+- **Gen AI Chatbots**: Google Vertex AI, AWS SageMaker
+- **Infrastructure as Code**: Terraform
+- **Serverless Architectures**: Lambda, API Gateway, Cognito, DynamoDB
+- **Automation**: Bash scripting, Python
