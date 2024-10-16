@@ -10,13 +10,13 @@
 ## 📜 Certifications / Badges I've Earned
 
 <div align="center">
-  <a href="https://www.credly.com/earner/earned/badge/216976d6-75d5-44ae-8795-92a161059727" target="_blank">
+  <a href="https://www.credly.com/badges/216976d6-75d5-44ae-8795-92a161059727" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="150" height="150">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/334e9cb3-c585-4744-abb9-180826050b68" target="_blank">
+  <a href="https://www.credly.com/badges/334e9cb3-c585-4744-abb9-180826050b68" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" alt="AWS Well-Architected Proficient" width="150" height="150">
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/e99543e6-6abb-42bd-a0ce-2d83688dbb77" target="_blank">
+  <a href="https://www.credly.com/badges/e99543e6-6abb-42bd-a0ce-2d83688dbb77" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="AWS ML Foundations" width="150" height="150">
   </a>
   
